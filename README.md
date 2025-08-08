@@ -4,7 +4,7 @@
   
   <p>
     Estudante de Ciência e Tecnologia com foco em Ciência de Dados na UFABC. <br />
-    Sou apaixonado por transformar dados em soluções e estou sempre em busca de novos desafios para aplicar e expandir minhas habilidades.
+    Sou apaixonado por inteligência artificial e diariamente estudo as ciências exatas para compreender como elas afetam a tecnologia. Estou sempre em busca de construir novos caminhos...
   </p>
 
   ---
