@@ -13,9 +13,9 @@
   <table align="center">
     <tr>
       <td align="center">Ciência de Dados</td>
-      <td align="center">Engenharia de Dados</td>
+      <td align="center">Inteligência Artificial</td>
       <td align="center">Machine Learning</td>
-      <td align="center">Cloud Computing</td>
+      <td align="center">Computação Quântica</td>
     </tr>
   </table>
 
