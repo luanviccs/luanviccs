@@ -48,8 +48,8 @@
 
 <div align="center">
   <h4><strong>Análise Eletrostática de Tecidos</strong></h4>
-  <a href="https://lnkd.in/gV_PXkMj" target="_blank"><img src="https://img.shields.io/badge/Ver Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
-  <a href="https://lnkd.in/gqjA7Kb" target="_blank"><img src="https://img.shields.io/badge/Ver Apresentação-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apresentação"></a>
+  <a href="https://github.com/luanviccs/analise-eletrostatica-tecidos" target="_blank"><img src="https://img.shields.io/badge/Ver Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
+  <a href="https://luanviccs.github.io/analise-eletrostatica-tecidos/" target="_blank"><img src="https://img.shields.io/badge/Ver Apresentação-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apresentação"></a>
 </div>
 
 ---
