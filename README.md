@@ -16,11 +16,7 @@
 ### :man_technologist: Sobre Mim
 
 <p>
-  Sou um estudante apaixonado por tecnologia, atualmente cursando <strong>Ciência e Tecnologia na UFABC</strong>, com o objetivo de me especializar em <strong>Ciência de Dados</strong>. Meu foco é entender como a Inteligência Artificial e a análise de dados podem transformar negócios e a sociedade.
-</p>
-
-<p>
-  Tenho background técnico em <strong>Informática para Internet pela ETEC Lauro Gomes</strong>, onde desenvolvi uma base sólida em desenvolvimento web, bancos de dados e gerenciamento de projetos. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e aplicar meu conhecimento em projetos práticos.
+  Sou estudante de Ciência & Tecnologia na <strong>UFABC</strong> com foco em <strong>Ciência de Dados</strong>, construindo sobre uma base técnica em Informática para Internet pela <strong>ETEC Lauro Gomes</strong>. Apaixonado por IA e dados, busco aplicar meu conhecimento em projetos práticos e desafios que impulsionem minha carreira.
 </p>
 
 ---
@@ -44,47 +40,30 @@
       <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Google Colab" />
     </td>
   </tr>
-  <tr>
-    <td valign="top"><strong>Interesses:</strong></td>
-    <td>
-      <code>Ciência de Dados</code> <code>Inteligência Artificial</code> <code>Machine Learning</code> <code>Cloud Computing</code> <code>Computação Quântica</code>
-    </td>
-  </tr>
 </table>
 
 ---
 
 ### 🚀 Projeto em Destaque
 
-<details>
-  <summary>
-    <strong>Análise Eletrostática de Tecidos — Projeto de Análise de Dados com Python</strong>
-  </summary>
-  
-  <br>
-  
-  <p>
-    Este projeto, desenvolvido na disciplina de Base Experimental das Ciências Naturais (UFABC), apresenta uma análise completa sobre o comportamento eletrostático de diferentes tecidos.
-  </p>
-  
-  - **🔬 Problema:** Qual a capacidade relativa de diferentes tecidos (Algodão, Lã, Poliéster e Poliuretano) de acumular carga eletrostática por atrito?
-  - **🐍 Tecnologias:** Análise estatística com Python, testes de hipóteses (ANOVA, Tukey HSD) e visualização de dados.
-  - **🌐 Extra:** O projeto inclui uma apresentação web interativa para exibir os resultados.
-  
-  <p align="center">
-    <a href="https://lnkd.in/gV_PXkMj"><strong>Ver Repositório  GitHub ➔</strong></a>
-    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="https://lnkd.in/gqjA7Kb"><strong>Acessar Apresentação Online ➔</strong></a>
-  </p>
-</details>
+<div align="center">
+  <h4><strong>Análise Eletrostática de Tecidos</strong></h4>
+  <a href="https://lnkd.in/gV_PXkMj" target="_blank"><img src="https://img.shields.io/badge/Ver Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
+  <a href="https://lnkd.in/gqjA7Kb" target="_blank"><img src="https://img.shields.io/badge/Ver Apresentação-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apresentação"></a>
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Focos de Estudo
 
 <div align="center">
   <a href="https://github.com/luanviccs">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanviccs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanviccs&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <div style="display: inline-block; vertical-align: top;">
+    <h3 align="center">💡 Principais Focos de Estudo</h3>
+    <img src="https://img.shields.io/badge/Cálculo-8A2BE2?style=for-the-badge" alt="Cálculo"/>
+    <img src="https://img.shields.io/badge/Programação-007ACC?style=for-the-badge" alt="Programação"/>
+    <img src="https://img.shields.io/badge/Compreensão de Negócios-E69C02?style=for-the-badge" alt="Compreensão de Negócios"/>
+  </div>
 </div>
