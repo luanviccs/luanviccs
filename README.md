@@ -1,69 +1,56 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Olá, eu sou o Luan Victor Santos!
-    <a href="https://www.linkedin.com/in/luan-victor-santos-342661252" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-  </h1>
-  <h3>
-    Estudante de Ciência & Tecnologia na UFABC | Futuro Cientista de Dados 📊
-  </h3>
+# Olá, eu sou o Luan Victor Santos! 🚀
+### Estudante de Ciência de Computação | Analista de Automações & n8n Specialist
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="180px" />
 </div>
 
 ---
 
-### :man_technologist: Sobre Mim
+### 👨‍💻 Sobre Mim
 
-<p>
-  Sou estudante de Ciência & Tecnologia na <strong>UFABC</strong> com foco em <strong>Ciência de Dados</strong>, construindo sobre uma base técnica em Informática para Internet pela <strong>ETEC Lauro Gomes</strong>. Apaixonado por IA e dados, busco aplicar meu conhecimento em projetos práticos e desafios que impulsionem minha carreira.
-</p>
+Sou estudante de **Ciências da Computação na UFABC**. Atualmente, atuo como **Analista de Automações**, onde utilizo o **n8n** e **Python** para conectar sistemas e otimizar fluxos complexos. Com grande interesse em expandir para Desenvolvimento Full-stack, explorando ferramentas como TailwindCSS, React e Figma para criar experiências de usuário fluidas.
+
+* 🔭 Atualmente trabalhando com: **Automações de Workflow (n8n) e Design.**
+* 🌱 Estudando: **Desenvolvimento, Arquitetura de Software e TypeScript.**
+* ⚡ Fun fact: Cristão e focado em alinhar meu trabalho com propósito de vida.
 
 ---
 
 ### 🛠️ Tech Stack & Habilidades
 
-<table>
-  <tr>
-    <td valign="top"><strong>Linguagens:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Ferramentas e Plataformas:</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
-      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black" alt="Google Colab" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Projeto em Destaque
-
-<div align="center">
-  <h4><strong>Análise Eletrostática de Tecidos</strong></h4>
-  <a href="https://github.com/luanviccs/analise-eletrostatica-tecidos" target="_blank"><img src="https://img.shields.io/badge/Ver Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Repositório"></a>
-  <a href="https://luanviccs.github.io/analise-eletrostatica-tecidos/" target="_blank"><img src="https://img.shields.io/badge/Ver Apresentação-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Apresentação"></a>
-</div>
+| Categoria | Tecnologias |
+| --- | --- |
+| **Linguagens** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> |
+| **Automação & Cloud** | <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
+| **Frontend & Design** | <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
 
 ---
 
 ### 📊 Estatísticas e Focos de Estudo
 
-<div align="center">
-  <a href="https://github.com/luanviccs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanviccs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+💡 **Principais Focos de Estudo Atuais:**
+
+* **Cloud Computing:** Especialização em arquiteturas serverless na AWS.
+* **Escalabilidade:** Como tornar fluxos de n8n robustos para grandes volumes de dados.
+* **Fullstack & Design:** Desenvolvimento de interfaces interativas com React e Tailwind, projetadas no Figma.
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINK_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <div style="display: inline-block; vertical-align: top;">
-    <h3 align="center">💡 Principais Focos de Estudo</h3>
-    <img src="https://img.shields.io/badge/Cálculo-8A2BE2?style=for-the-badge" alt="Cálculo"/>
-    <img src="https://img.shields.io/badge/Programação-007ACC?style=for-the-badge" alt="Programação"/>
-    <img src="https://img.shields.io/badge/Compreensão de Negócios-E69C02?style=for-the-badge" alt="Compreensão de Negócios"/>
-  </div>
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
+
+---
+<p align="center">
+  <i>"In code we trust, in automation we rest."</i>
+</p>
