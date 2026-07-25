@@ -1,56 +1,86 @@
-# Olá, eu sou o Luan Victor Santos! 🚀
-### Estudante de Ciência de Computação | Analista de Automações & n8n Specialist
+<h1 align="center">Hi there, I'm Luan Victor Santos 👋</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="180px" />
-</div>
+<h3 align="center">
+Data Science Student at UFABC • Python • SQL • Power BI
+</h3>
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 👨🏻‍💻 About Me
 
-Sou estudante de **Ciências da Computação na UFABC**. Atualmente, atuo como **Analista de Automações**, onde utilizo o **n8n** e **Python** para conectar sistemas e otimizar fluxos complexos. Com grande interesse em expandir para Desenvolvimento Full-stack, explorando ferramentas como TailwindCSS, React e Figma para criar experiências de usuário fluidas.
+I'm a Data Science undergraduate at the Federal University of ABC (UFABC), Brazil.
 
-* 🔭 Atualmente trabalhando com: **Automações de Workflow (n8n) e Design.**
-* 🌱 Estudando: **Desenvolvimento, Arquitetura de Software e TypeScript.**
-* ⚡ Fun fact: Cristão e focado em alinhar meu trabalho com propósito de vida.
+I'm passionate about transforming data into insights and continuously improving my analytical and technical skills.
 
----
-
-### 🛠️ Tech Stack & Habilidades
-
-| Categoria | Tecnologias |
-| --- | --- |
-| **Linguagens** | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> |
-| **Automação & Cloud** | <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> |
-| **Frontend & Design** | <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> |
-| **Ferramentas** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> |
+Currently, I'm focused on building a solid foundation in Data Analytics, Business Intelligence and Workflow Automation while preparing for an international academic career in Neuroscience.
 
 ---
 
-### 📊 Estatísticas e Focos de Estudo
+## 🚀 Tech Stack
 
-💡 **Principais Focos de Estudo Atuais:**
+### Programming
 
-* **Cloud Computing:** Especialização em arquiteturas serverless na AWS.
-* **Escalabilidade:** Como tornar fluxos de n8n robustos para grandes volumes de dados.
-* **Fullstack & Design:** Desenvolvimento de interfaces interativas com React e Tailwind, projetadas no Figma.
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
+
+### Data & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### Automation & Backend
+
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
-### 📫 Vamos nos conectar?
+## 📊 GitHub Stats
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINK_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:luanvictorsantos1@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
-
----
 <p align="center">
-  <i>"In code we trust, in automation we rest."</i>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=luanviccs&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanviccs&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luanviccs&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌎 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/luan-victor-santos-342661252">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:luanvictorsantos1@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
